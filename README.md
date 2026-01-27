@@ -6,3 +6,6 @@ It covers:
 - Mathematical and statistical operations
 - Reshaping and combining arrays
 - Working with random data
+## 📚 Documentation:
+Official documentation:
+- https://numpy.org/doc/
